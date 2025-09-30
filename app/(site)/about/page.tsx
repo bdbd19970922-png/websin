@@ -1,0 +1,1 @@
+export default function Page(){return (<section className='section'><div className='container'><h1 className='text-3xl font-bold'>웹신 소개</h1><p className='mt-2 text-ink-500'>저비용 고품질 제작 대행.</p></div></section>);}

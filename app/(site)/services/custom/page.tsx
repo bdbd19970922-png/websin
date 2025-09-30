@@ -1,0 +1,1 @@
+export default function Page(){return (<section className='section'><div className='container'><h1 className='text-3xl font-bold'>맞춤형 제작</h1></div></section>);}
